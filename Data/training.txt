@@ -1,0 +1,5 @@
+I love Python programming.
+Python is useful for Artificial Intelligence.
+Machine Learning uses data to train models.
+Deep Learning uses neural networks.
+Natural Language Processing works with text.
